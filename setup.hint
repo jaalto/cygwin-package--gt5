@@ -1,0 +1,7 @@
+sdesc: "shell program to display visual disk usage with navigation"
+ldesc: "Tool for exploring disk usage more conveniently than the du(1).
+program displays what has appened since last run and displays dir size
+and the total ercentage. It is possible to navigate and descend to
+directories by sing cursor keys with text based browsers."
+category: Utils
+requires: lynx
